@@ -321,3 +321,70 @@ transition: 3s;
 
     border-radius: 100%;
 }
+
+.contact{
+    width: 1200px;
+    height: 1000px;
+    margin: 0 auto;
+
+    margin-top: 100px;
+}
+
+.contact h2{
+    font-size: 40px;
+    color: gold;
+}
+
+.contact h1{
+    font-size: 50px;
+}
+
+
+.contact .contents{
+    width: 1200px;
+    height: 700px;
+    display: flex;
+}
+
+.contact .left{
+    width: 400px;
+    height: 700px;
+}
+
+.contact .right{
+    width: 800px;
+    height: 700px;
+}
+
+.info{
+    width: 350px;
+    height: 80px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.contact .right p{
+    margin-top: 20px;
+}
+
+.contact .right input{
+    width: 800px;
+    height: 30px;
+    border: 1px solid #ccc;
+}
+
+.contact .right textarea{
+    width: 800px;
+    height: 400px;
+    border: 1px solid #ccc;
+}
+
+.contact button{
+    width: 800px;
+    height: 30px;
+    background-color: gold;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
