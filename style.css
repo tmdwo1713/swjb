@@ -252,7 +252,7 @@ transition: 3s;
 
 .skills .contents li{
     width: 350px;
-    height: 350px;
+    height: 250px;
     font-size: 20px;
     text-align: center;
     background-color: white;
@@ -282,6 +282,10 @@ transition: 3s;
     color: white;
 }
 
+#mire{
+    background: url(미래.jpg);
+}
+
 .bg{
     width: 100%;
     height: 700px;
@@ -292,7 +296,7 @@ transition: 3s;
 }
 
 .project{
-    height: 1200px;
+    height: 700px;
     margin-top: -100px;
 }
 
